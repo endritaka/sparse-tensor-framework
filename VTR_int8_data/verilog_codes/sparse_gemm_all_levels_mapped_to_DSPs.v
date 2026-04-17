@@ -1,11 +1,11 @@
 
-    `define DWIDTH 8
-    `define ACCWIDTH 32
-    `define MAC_PIPE_STAGES 3
-    `define DENSE 0
-    `define SPARSE_2_4 1
-    `define SPARSE_1_4 2
-    `define SPARSE_1_3 3
+`define DWIDTH 8
+`define ACCWIDTH 32
+`define MAC_PIPE_STAGES 3
+`define DENSE 0
+`define SPARSE_2_4 1
+`define SPARSE_1_4 2
+`define SPARSE_1_3 3
 `define K 64
 `define U 8
 `define V 8
