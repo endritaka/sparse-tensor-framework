@@ -1,3 +1,8 @@
+# Systolic Sparse Tensor Slices
+
+This repository contains code and automation flow for the work "Systolic Sparse Tensor Slices: FPGA Building Blocks for Sparse and Dense AI Acceleration" which was accepted at ISFPGA 2025 (https://dl.acm.org/doi/abs/10.1145/3706628.3708867).
+
+
 # Sparse Tensor Framework
 
 This repository contains the FPGA architecture files, VTR run scripts, timing constraints, and Verilog automation used to evaluate dense and sparse tensor and GEMM designs.
